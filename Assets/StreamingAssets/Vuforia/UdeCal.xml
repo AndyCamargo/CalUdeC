@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="grafica30" size="500.000000 500.000000" />
+    <ImageTarget name="grafica29" size="500.000000 500.000000" />
+    <ImageTarget name="grafica28" size="500.000000 500.000000" />
+    <ImageTarget name="grafica27" size="500.000000 500.000000" />
+    <ImageTarget name="grafica26" size="500.000000 500.000000" />
+    <ImageTarget name="grafica25" size="500.000000 500.000000" />
+    <ImageTarget name="grafica24" size="500.000000 500.000000" />
+    <ImageTarget name="grafica23" size="500.000000 500.000000" />
+    <ImageTarget name="grafica22" size="500.000000 500.000000" />
+    <ImageTarget name="grafica21" size="500.000000 500.000000" />
+    <ImageTarget name="grafica20" size="500.000000 500.000000" />
+    <ImageTarget name="grafica19" size="500.000000 500.000000" />
+    <ImageTarget name="grafica18" size="500.000000 500.000000" />
+    <ImageTarget name="grafica17" size="500.000000 500.000000" />
+    <ImageTarget name="grafica16" size="500.000000 500.000000" />
+    <ImageTarget name="grafica15" size="500.000000 500.000000" />
+    <ImageTarget name="grafica14" size="500.000000 500.000000" />
+    <ImageTarget name="grafica13" size="500.000000 500.000000" />
+    <ImageTarget name="grafica12" size="500.000000 500.000000" />
+    <ImageTarget name="grafica11" size="500.000000 500.000000" />
+    <ImageTarget name="grafica10" size="500.000000 500.000000" />
+    <ImageTarget name="grafica9" size="500.000000 500.000000" />
+    <ImageTarget name="grafica8" size="500.000000 500.000000" />
+    <ImageTarget name="grafica7" size="500.000000 500.000000" />
+    <ImageTarget name="grafica6" size="500.000000 500.000000" />
+    <ImageTarget name="grafica5" size="500.000000 500.000000" />
+    <ImageTarget name="grafica4" size="500.000000 500.000000" />
+    <ImageTarget name="grafica3" size="500.000000 500.000000" />
+    <ImageTarget name="grafica2" size="500.000000 500.000000" />
+    <ImageTarget name="grafica1" size="500.000000 500.000000" />
+  </Tracking>
+</QCARConfig>
