@@ -55,7 +55,7 @@ Los estudiantes pueden visualizar funciones matemáticas, gráficas y ejercicios
 
 ## 📁 Estructura del Proyecto  
 
-
+```
 CalUdeC/
 ├── Assets/
 │ ├── Scripts/
@@ -79,7 +79,7 @@ CalUdeC/
 ├── QCAR/
 └── Library/ # Ignorar en git
 
-
+```
 Yaml
 
 ---
@@ -120,7 +120,8 @@ Yaml
 ## 🔧 Instalación y Configuración  
 
 1. **Clonar el repositorio**
-```bash
+bash
+
 git clone [url-del-repositorio]
 cd CalUdeC
 
